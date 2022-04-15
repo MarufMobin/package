@@ -1,0 +1,14 @@
+{
+    "name": "plugin/calculator",
+    "description": "This is a Calculator Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maruf Mobin",
+            "email": "maruf.m@crtvecode.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
